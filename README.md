@@ -26,7 +26,7 @@ $ pip install certifi
 $ pip install mechanize
 $ pip install requests bs4
 $ apt install git
-git clone https://github.com/techboy237cm/Techboy237Facebook_Brute_force4_2B.git
+git clone https://github.com/techboy237cm/Techboy237Facebook_Brute_force4_3B.git
 ```
 #### RUN SCRIPT
 ```python
