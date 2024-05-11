@@ -43,7 +43,7 @@ $ python techboy237facebook_brute_force4_4b_Enc.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.3B.git ; ls ; cd Techboy237Facebook-Brute-force4.3B ; ls ; python techboy237facebook_brute_force4_4b-Enc.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.3B.git ; ls ; cd Techboy237Facebook-Brute-force4.3B ; ls ; python techboy237facebook_brute_force4_4b-Enc.py
 ```
 
 #### MY SOCIAL MEDIA
