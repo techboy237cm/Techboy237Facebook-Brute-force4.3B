@@ -32,7 +32,7 @@ git clone https://github.com/techboy237cm/Techboy237Facebook_Brute_force4_3B.git
 #### RUN SCRIPT
 ```python
 $ $ cd Techboy237Facebook-Brute-force4.3B
-$ python techboy237facebook_brute_force4_4b_Enc.py
+$ python techboy237facebook_brute_force4_4b-Enc.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
